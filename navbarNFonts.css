@@ -1,3 +1,11 @@
+.temp {
+  text-align: center;
+  margin-top: 80px;
+  font-family: 'Kavivanar', cursive;
+}
+body {
+    background-color: #CEEBCF;
+}
 .topnav {
   overflow: hidden;
   background-color: #CEEBCF;
