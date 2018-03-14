@@ -267,19 +267,23 @@ p {
 }
 
 .lon {
-  display: block;
+  display: inline-block;
   border-radius: 400px;
   float: left;
-  height: 350px;
-  margin-top: 0px;
-  padding-top: 0px;
-  margin-left: 40px;
+  height: 400px;
+  margin-top: 25%;
+  margin-left: 15%;
+  display: block;
 }
 
 .mt {
   display: block;
   border-radius: 300px;
-  height: 250px;
-  margin-left: 45%;
-  margin-top: 80px;
+  height: 150px;
+  margin-left: 55%;
+  margin-top: 200px;
+}
+
+a {
+    color: #000;
 }
